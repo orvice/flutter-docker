@@ -1,7 +1,7 @@
 FROM androidsdk/android-30
 
 # config flutter build envrioument
-ENV FLUTTER_VERSION 3.0.1
+ENV FLUTTER_VERSION 3.22.3
 ENV FLUTTER_HOME=/opt/flutter
 ENV FLUTTER_ROOT=$FLUTTER_HOME
 
