@@ -1,4 +1,4 @@
-FROM androidsdk/android-30
+FROM androidsdk/android-34
 
 # config flutter build envrioument
 ENV FLUTTER_VERSION 3.22.3
